@@ -1,4 +1,3 @@
-# Parnian Taheri
 
 Computer Engineering Student @ IUT | Continuous Learner
 
