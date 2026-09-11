@@ -1,4 +1,6 @@
-# Computer Engineering Student @ IUT | Continuous Learner
+# Parnian Taheri
+
+Computer Engineering Student @ IUT | Continuous Learner
 
 [Email](mailto:prniantahry@gmail.com)
 
