@@ -1,5 +1,4 @@
-
-Computer Engineering Student @ IUT | Continuous Learner
+# Computer Engineering Student @ IUT | Continuous Learner
 
 [Email](mailto:prniantahry@gmail.com)
 
