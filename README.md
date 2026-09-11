@@ -6,7 +6,7 @@ Computer Engineering Student @ IUT | Continuous Learner
 
 ### Focus
 
-* **Academic Core:** Building a solid computer engineering foundation through university projects.
+* **Academic Core:** Building a solid computer engineering foundation through university courses and projects.
 * **Frontend Development:** Actively learning and building web interfaces with React and Next.js, and gaining experience through real-world projects.
 * **Tech Exploration:** A curious student always eager to learn new technologies and explore different fields in computer engineering and software development:)
 
